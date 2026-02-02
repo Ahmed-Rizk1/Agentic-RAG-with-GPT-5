@@ -1,6 +1,8 @@
 # 🧠 Agentic RAG with GPT-5
 
 
+👉 [Click here to try it live](https://agentic-rag-with-gpt-5-arizk.streamlit.app/) 
+
 An agentic RAG application built with the Agno framework, featuring GPT-5 and LanceDB for efficient knowledge retrieval and question answering.
 
 ## ✨ Features
